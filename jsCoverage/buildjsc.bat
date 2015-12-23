@@ -1,0 +1,1 @@
+jsCoverage ./ ./jsCoverage
